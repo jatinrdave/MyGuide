@@ -233,6 +233,9 @@ Swagger editor : https://editor.swagger.io/#
 [[https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources]
 [/agents_roadmap.md]](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/agents_roadmap.md)
 
+**Resume:**
+[https://resume.co/@UEe2sQ8BuY9kQRFYkCPE?password=FuqSyjMicRusLa]
+
 
 
 **[Resume]**
