@@ -173,7 +173,10 @@ Rab...](https://youtu.be/dlXCodLxhag) Reverse Engineering:
 [[Diagram](https://github.com/mingrammer/diagrams)
 [generator:](https://github.com/mingrammer/diagrams)]
 
-Roadmaps:
+**API Documentation**
+[[GitBook](https://docs.gitbook.com)]
+
+**Roadmaps:**
 
 [[AspNetCore-Developer-Roadmap]](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
