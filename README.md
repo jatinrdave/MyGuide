@@ -250,3 +250,6 @@ Swagger editor : https://editor.swagger.io/#
 
 https://app.enhancv.com/resume/6505974774726143eb02fd25 **Links from the
 various places:**
+
+**Interview Prep**
+Open-Source Undetectable Coding Assistant [https://gittech.site/github/item/42979659]
